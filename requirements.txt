@@ -1,1 +1,2 @@
-streamlitstreamlit-lottiejson
+streamlit==1.41.1
+streamlit-lottie==0.0.5
